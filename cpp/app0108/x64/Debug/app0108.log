@@ -1,0 +1,25 @@
+﻿  app0108.cpp
+D:\cpp\app0108\app0108.cpp(37,3): error C2248: 'Base::a': private 멤버('Base' 클래스에서 선언)에 액세스할 수 없습니다.
+  D:\cpp\app0108\app0108.cpp(20,6):
+  'Base::a' 선언을 참조하십시오.
+  D:\cpp\app0108\app0108.cpp(19,7):
+  'Base' 선언을 참조하십시오.
+  
+D:\cpp\app0108\app0108.cpp(38,4): error C2248: 'Base::setA': private 멤버('Base' 클래스에서 선언)에 액세스할 수 없습니다.
+  D:\cpp\app0108\app0108.cpp(22,7):
+  'Base::setA' 선언을 참조하십시오.
+  D:\cpp\app0108\app0108.cpp(19,7):
+  'Base' 선언을 참조하십시오.
+  
+D:\cpp\app0108\app0108.cpp(40,3): error C2248: 'Derived::b': private 멤버('Derived' 클래스에서 선언)에 액세스할 수 없습니다.
+  D:\cpp\app0108\app0108.cpp(28,6):
+  'Derived::b' 선언을 참조하십시오.
+  D:\cpp\app0108\app0108.cpp(27,7):
+  'Derived' 선언을 참조하십시오.
+  
+D:\cpp\app0108\app0108.cpp(41,4): error C2248: 'Derived::setB': protected 멤버('Derived' 클래스에서 선언)에 액세스할 수 없습니다.
+  D:\cpp\app0108\app0108.cpp(30,7):
+  'Derived::setB' 선언을 참조하십시오.
+  D:\cpp\app0108\app0108.cpp(27,7):
+  'Derived' 선언을 참조하십시오.
+  

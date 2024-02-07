@@ -1,0 +1,3 @@
+﻿  0201prac.cpp
+D:\cpp\0201prac\0201prac.cpp(33,29): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  0201prac.vcxproj -> D:\cpp\0201prac\x64\Debug\0201prac.exe
