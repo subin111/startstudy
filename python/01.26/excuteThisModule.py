@@ -1,0 +1,9 @@
+def func():
+    print("function working")
+
+if __name__ == "__main__":
+    print("직접 실행")
+    print(__name__)
+else:
+    print("임포트되어 사용됨")
+    print(__name__)
